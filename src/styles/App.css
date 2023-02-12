@@ -1,0 +1,14 @@
+.profile {
+  display: flex;
+  gap: 10px;
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.newUser {
+  margin-top: 20px;
+}
